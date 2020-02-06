@@ -14,6 +14,15 @@
 				"buffer_size": 186,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"contents": "people = 30\ncars = 40\nbuses = 15\n\nif cars ",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Unix",
+				"name": "people = 30"
+			}
 		}
 	],
 	"build_system": "",
@@ -115,7 +124,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -138,6 +147,34 @@
 						"settings":
 						{
 							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "people = 30",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
